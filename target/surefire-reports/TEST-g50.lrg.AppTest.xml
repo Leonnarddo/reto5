@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="g50.lrg.AppTest" time="0.029" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Workspace\reto5\target\test-classes;C:\Workspace\reto5\target\classes;C:\Users\leoon\.m2\repository\org\xerial\sqlite-jdbc\3.36.0.1\sqlite-jdbc-3.36.0.1.jar;C:\Users\leoon\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\leoon\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\leoon\.m2\repository\org\netbeans\external\AbsoluteLayout\RELEASE123\AbsoluteLayout-RELEASE123.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="user.timezone" value="America/Bogota"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="419"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.14\bin"/>
+    <property name="sun.java.command" value="C:\Users\leoon\AppData\Local\Temp\surefire7715865046012864743\surefirebooter12281991651666022606.jar C:\Users\leoon\AppData\Local\Temp\surefire7715865046012864743 2022-08-09T17-19-40_898-jvmRun1 surefire15472094787182363796tmp surefire_018377632574970385447tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="test" value="g50.**.*Test"/>
+    <property name="surefire.test.class.path" value="C:\Workspace\reto5\target\test-classes;C:\Workspace\reto5\target\classes;C:\Users\leoon\.m2\repository\org\xerial\sqlite-jdbc\3.36.0.1\sqlite-jdbc-3.36.0.1.jar;C:\Users\leoon\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\leoon\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\leoon\.m2\repository\org\netbeans\external\AbsoluteLayout\RELEASE123\AbsoluteLayout-RELEASE123.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\leoon"/>
+    <property name="user.language" value="es"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-01-18"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11.0.14"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Workspace\reto5"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\leoon\AppData\Local\Temp\surefire7715865046012864743\surefirebooter12281991651666022606.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.14+8-LTS-263"/>
+    <property name="user.name" value="leoon"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="maven.ext.class.path" value="C:\Program Files\NetBeans-12.3\netbeans\java\maven-nblib\netbeans-eventspy.jar"/>
+    <property name="localRepository" value="C:\Users\leoon\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\leoon\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.14"/>
+    <property name="user.dir" value="C:\Workspace\reto5"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.14\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Calibre2\;C:\Program Files\Java\jdk-11.0.14;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\leoon\.m2\repository\org\xerial\sqlite-jdbc\3.36.0.1\;C:\Users\leoon\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\leoon\AppData\Local\Programs\Python\Python310\;C:\Users\leoon\AppData\Local\Microsoft\WindowsApps;C:\Users\leoon\AppData\Local\Programs\Python\Python310;C:\Users\leoon\.dotnet\tools;C:\Users\leoon\AppData\Local\Programs\Microsoft VS Code\bin;C:\apache-maven-3.8.6;C:\SQLite3;C:\Program Files\Java\jdk-11.0.14;C:\Users\leoon\.m2\repository\org\xerial\sqlite-jdbc\3.36.0.1\;;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.14+8-LTS-263"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="g50.lrg.AppTest" time="0.002"/>
+</testsuite>
